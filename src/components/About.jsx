@@ -52,7 +52,7 @@ const TAGS = [
 ];
 
 const RESUME_URL =
-  "https://drive.google.com/file/d/13M6dfb2h2zAF-PJTcjp5kL7vBSe25zE5/view?usp=sharing";
+  "https://drive.google.com/file/d/1i99KPlzb1mKgR98yGtXzQpslyswM0WWY/view?usp=sharing";
 
 export default memo(function About() {
   const socialLinksElements = useMemo(
